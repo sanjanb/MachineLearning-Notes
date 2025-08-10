@@ -1,8 +1,9 @@
 # AI Resources
-- [Pattern Recognition and ML - Christopher M. Bishop]
-- [ISLR - James, Witten, Hastie, Tibshirani & Taylor]
-- [Probabilistic Machine Learning - Kevin P. Murphy]
-- [Deep Learning - Goodfellow, Bengio & Courville]
+- Pattern Recognition and ML - Christopher M. Bishop
+- ISLR - James, Witten, Hastie, Tibshirani & Taylor
+- Probabilistic Machine Learning - Kevin P. Murphy
+- Deep Learning - Goodfellow, Bengio & Courville
+- Speech and Language Processing - Jurafsky & Martin
 
 ## Books & Lecture Notes
 - [Probabilistic Machine Learning Book 1](https://probml.github.io/pml-book/book1.html)
