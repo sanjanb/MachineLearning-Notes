@@ -33,18 +33,9 @@
 - [Stanford CS229 2018 – Duplicate Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [Stanford CS230: Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 
-
----
-title: "Machine Learning Resources"
-keywords: cs229, machine learning, resources
-sidebar: sidebar
-permalink: resources.html
-summary: "Curated list of books, courses, videos, and references for machine learning."
 ---
 
 # Machine Learning Resources
-
----
 
 | Category | Resource | Link |
 |----------|----------|------|
