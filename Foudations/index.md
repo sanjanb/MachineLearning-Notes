@@ -57,5 +57,47 @@
 |  | Fast.ai Practical Deep Learning for Coders | [Link](https://course.fast.ai/) |
 |  | MIT 6.S191: Introduction to Deep Learning | [Link](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0) |
 
+---
 
+## **Priority 1 – Core, Job-Relevant Skills**
 
+These will get you ready to actually build and deploy ML models in a workplace:
+
+* **Mathematics for Machine Learning** ([Book](https://mml-book.github.io/), [Coursera Specialization](https://www.coursera.org/specializations/mathematics-machine-learning?action=enroll))
+  Gives you enough linear algebra, calculus, and probability to understand algorithms without drowning in proofs.
+
+* **Deep Learning Specialization – Andrew Ng** ([YouTube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI))
+  Focuses on practical deep learning, debugging, and model deployment concepts.
+
+* **Fast.ai Practical Deep Learning for Coders** ([Course](https://course.fast.ai/))
+  Highly applied, project-driven, helps you build impressive portfolios quickly.
+
+* **MIT 6.S191: Introduction to Deep Learning** ([YouTube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0))
+  Short but intense introduction to modern deep learning topics.
+
+---
+
+## **Priority 2 – Broader ML Foundations**
+
+These build your credibility in interviews and make you versatile across job roles:
+
+* **Stanford CS229 – Machine Learning** ([Course](https://see.stanford.edu/course/cs229), [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU))
+  Great for understanding ML algorithms beyond neural networks (SVMs, logistic regression, PCA, etc.).
+
+* **Neural Networks and Deep Learning** ([YouTube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK))
+  More focused version of the deep learning foundations from Andrew Ng.
+
+---
+
+## **Priority 3 – Long-Term, Advanced Topics**
+
+These are great for R\&D-heavy roles or PhD-level work, but not urgent for entry-level jobs:
+
+* **Probabilistic Machine Learning Book 1 & 2** ([Book1](https://probml.github.io/pml-book/book1.html), [Book2](https://probml.github.io/pml-book/book2.html))
+  Deep dive into probabilistic modeling; valuable but heavy.
+
+* **Deep Learning (Goodfellow et al.)** ([Book](https://www.deeplearningbook.org/))
+  The "bible" of deep learning; excellent for reference, but dense for beginners.
+
+* **Speech and Language Processing (Jurafsky & Martin)** ([Book](https://web.stanford.edu/~jurafsky/slp3/))
+  Only essential if you want to specialize in NLP.
