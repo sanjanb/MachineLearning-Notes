@@ -1,4 +1,4 @@
-# Machine Learning Resources
+# AI Resources
 
 ## Books & Lecture Notes
 - [Probabilistic Machine Learning Book 1](https://probml.github.io/pml-book/book1.html)
