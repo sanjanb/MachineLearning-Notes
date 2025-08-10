@@ -1,8 +1,11 @@
-title: "CS229 Machine Learning Notes"
-description: "Notes for Stanford CS229 — Machine Learning"
-url: "https://<yourusername>.github.io"
-baseurl: "/cs229-notes"
+title: "Machine Learning Notes"
+description: "My personal documentation for Machine Learning course"
+url: "https://sanjanb.github.io"
+baseurl: "/MachineLearning-Notes"
 
-remote_theme: olivier3lanc/Jekyll-LibDoc
+remote_theme: tomjoht/documentation-theme-jekyll
 
-# Optional: configure LibDoc settings (e.g. logo, search, etc.)
+# Sidebar settings
+sidebar: sidebar
+markdown: kramdown
+highlighter: rouge
