@@ -1,0 +1,34 @@
+entries:
+- title: CS229 Machine Learning Notes
+  product: CS229
+  folders:
+    - title: Introduction
+      output: web
+      folderitems:
+        - title: Syllabus
+          url: /intro/syllabus.html
+          output: web
+    - title: Lecture Notes
+      output: web
+      folderitems:
+        - title: Lecture 1 - Introduction
+          url: /lectures/lecture1.html
+          output: web
+        - title: Lecture 2 - Supervised Learning
+          url: /lectures/lecture2.html
+          output: web
+    - title: Topics
+      output: web
+      folderitems:
+        - title: Linear Regression
+          url: /topics/linear_regression.html
+          output: web
+        - title: Logistic Regression
+          url: /topics/logistic_regression.html
+          output: web
+    - title: References
+      output: web
+      folderitems:
+        - title: Books & Papers
+          url: /references/books.html
+          output: web
