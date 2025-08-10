@@ -3,7 +3,7 @@ description: "My personal documentation for Stanford's CS229 course"
 url: "https://<yourusername>.github.io"
 baseurl: "/cs229-notes"
 
-remote_theme: tomjoht/documentation-theme-jekyll
+remote_theme: just-the-docs/just-the-docs
 
 # Sidebar settings
 sidebar: sidebar
